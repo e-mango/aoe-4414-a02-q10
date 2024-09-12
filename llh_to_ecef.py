@@ -12,7 +12,6 @@
 # Written by Evan Schlein
 # Other contributors: None
 #
-# This work is licensed under CC BY-SA 4.0
 
 # import Python modules
 import math # math module
